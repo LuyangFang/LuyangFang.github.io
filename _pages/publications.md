@@ -9,13 +9,26 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
 
+
+2025
+========
+
+- **Fang, L.**, Latif, E., Lu, H., Zhou, Y., Ma, P., Zhai, X. (2025) [Efficient Multi-Task Inferencing: Model Merging with Gromov–Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774), International Conference on Artificial Intelligence in Education.
+
+- Lu, H., **Fang, L.**, Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Li, X., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., Ma, P. (2025) [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
+
+- **Fang, L.**, Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025) [Spot: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://ieeexplore.ieee.org/iel8/8254253/11080149/11080213.pdf), Big Data Mining and Analytics.
+
+
 2024
 ========
 - **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), International Conference on Machine Learning (ICML).
 - Wang, Z., **Fang, L.**\*, Cai, J., Ma, P., Zhong, W. (2024) [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://drive.google.com/file/d/1ziOs1fgjxSvBtdeNdoaBwN_9Dvohy8kA/view?usp=sharing), Statistics in Biosciences. (\* Joint-First author)
 - Latif, E., **Fang, L.**, Ma, P., and Zhai, X. (2024) [Knowledge Distillation of LLMs for Automatic Scoring of Science Assessments](https://drive.google.com/file/d/1ntv10R8kJ216eBG8vQw2J7zGAsJd51rE/view?usp=sharing), International Conference on Artificial Intelligence in Education.
 - Wang, S., Wu, S., Chen, Y., **Fang, L.**, Xiao, L., Li, F. (2024) [Exploring Latent Constructs through Multimodal Data Analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jedm.12412), Journal of Educational Measurement.
+- Latif, E., Zhou, Y., Guo, S., Gao, Y., Shi, L., Nayaaba, M., Lee, G., Zhang, L., Bewersdorff, A., **Fang, L.**, Yang, X., Zhao, H., Jiang, H., Lu, H., Li, J., Yu, J., You, W., Liu, Z., Liu, V. S., Wang, H., Wu, Z., Lu, J., Dou, F., Ma, P., Liu, N., Liu, T., Zhai, X. (2024) [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv:2410.21287.
 
+  
 2023
 ========
 - **Fang, L.**, Lee, GG., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365), ArXiv.
