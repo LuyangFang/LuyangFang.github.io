@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
-Please find my CV [here]({{ "/files/CV_Luyang_Fang_new.pdf" | relative_url }}).
-
-
-
+Please find my CV [here](https://drive.google.com/file/d/10A3jiFdpKxV7dnbHToZCWo8CseUom2aX/view?usp=sharing).
