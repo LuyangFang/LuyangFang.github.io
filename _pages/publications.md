@@ -13,7 +13,14 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2025
 ========
 
+- \bf **Fang, L.**, Meng C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011), Big Data Mining and Analytics. 
+
 - **Fang, L.**, Latif, E., Lu, H., Zhou, Y., Ma, P., Zhai, X. (2025) [Efficient Multi-Task Inferencing: Model Merging with Gromov–Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774), International Conference on Artificial Intelligence in Education.
+
+- Wang, B., Cai, J., **bf Fang, L.**, Ma, P., Leung, Y.F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.110959),
+Computers in Biology and Medicine.
+
+Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025). [Large language models for bioinformatics](https://arxiv.org/abs/2501.06271), Quantitative Biology.
 
 - Lu, H., **Fang, L.**, Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Li, X., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., Ma, P. (2025) [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
 
