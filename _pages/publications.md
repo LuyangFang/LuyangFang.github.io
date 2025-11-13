@@ -24,6 +24,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. *EAAI 2026: Educational Advances in Artificial Intelligence, co-located with AAAI 2026.* (accepted).
 
+- **Fang, L.**, Lee, G., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365). *Journal of Educational Measurement*. (accepted).
+  
+- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging.
+*Association for the Advancement of Artificial Intelligence (AAAI)*.
+(accepted).
+
 - Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025). [Large language models for bioinformatics](https://arxiv.org/abs/2501.06271). *Quantitative Biology.*
 
 - Lu, H., **Fang, L.**, Zeng, O., Ma, P., Zhong, W., Yuan, G.(2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), *bioRxiv*.
@@ -47,6 +53,4 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   
 2023
 ========
-- **Fang, L.**, Lee, G., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365). arXiv:2310.18365.
-  
 - Wu, S., **Fang L.**, Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://par.nsf.gov/servlets/purl/10494748). *IEEE Transactions on Smart Grid.*
