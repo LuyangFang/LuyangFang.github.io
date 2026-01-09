@@ -12,8 +12,9 @@ redirect_from:
 Invited Conference/Workshop Presentations
 -----
 - Joint Statistical Meetings, Nashville, TN (2025)
+- AI in Education Conference, Athens, GA (2025)
 - Joint ATD/AMPS Workshop, National Science Foundation, Alexandria, VA (2024)
-- International Conference on Machine Learning, Vienna, Austria (2024)
+- International Conference on Machine Learning (ICML), Vienna, Austria (2024)
 - Joint Statistical Meetings, Portland, OR (2024)
 - International Chinese Statistical Association China Conference, Wuhan, China (2024)
 - Georgia Statistics Day, Georgia Institute of Technology, Atlanta, GA (2023)
