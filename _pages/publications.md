@@ -15,9 +15,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3). *Artificial Intelligence Review.* (accepted)
 
-- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2026). [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://doi.org/10.48550/arXiv.2511.12047). *Association for the Advancement of Artificial Intelligence (AAAI)*. (accepted).
-
 - **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://doi.org/10.48550/arXiv.2511.17601). *EAAI 2026: Educational Advances in Artificial Intelligence, co-located with AAAI 2026.* (accepted).
+
+- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2026). [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://doi.org/10.48550/arXiv.2511.12047). *Association for the Advancement of Artificial Intelligence (AAAI)*. (accepted).
 
 - Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2026). [Large language models for bioinformatics](https://doi.org/10.1002/qub2.70014). *Quantitative Biology.*
 
