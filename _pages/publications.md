@@ -10,6 +10,17 @@ redirect_from:
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
 
 
+2026
+========
+
+- **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3). *Artificial Intelligence Review.* (accepted)
+
+- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2026). [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://doi.org/10.48550/arXiv.2511.12047). *Association for the Advancement of Artificial Intelligence (AAAI)*. (accepted).
+
+- **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://doi.org/10.48550/arXiv.2511.17601). *EAAI 2026: Educational Advances in Artificial Intelligence, co-located with AAAI 2026.* (accepted).
+
+- Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2026). [Large language models for bioinformatics](https://doi.org/10.1002/qub2.70014). *Quantitative Biology.*
+
 2025
 ========
 
@@ -20,17 +31,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - Wang, B., Cai, J., **Fang, L.**, Ma, P., Leung, Y.F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.110959).
 *Computers in Biology and Medicine.*
 
-- **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2025). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772). *Artificial Intelligence Review.* (accepted)
-
-- **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. *EAAI 2026: Educational Advances in Artificial Intelligence, co-located with AAAI 2026.* (accepted).
-
-- **Fang, L.**, Lee, G., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365). *Journal of Educational Measurement*. (accepted).
-  
-- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging.
-*Association for the Advancement of Artificial Intelligence (AAAI)*.
-(accepted).
-
-- Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025). [Large language models for bioinformatics](https://arxiv.org/abs/2501.06271). *Quantitative Biology.*
+- **Fang, L.**, Lee, G., Zhai, X. (2025) [Using gpt-4 to augment unbalanced data for automatic scoring](https://doi.org/10.1111/jedm.70020). *Journal of Educational Measurement*. (accepted).
 
 - Lu, H., **Fang, L.**, Zeng, O., Ma, P., Zhong, W., Yuan, G.(2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), *bioRxiv*.
 
