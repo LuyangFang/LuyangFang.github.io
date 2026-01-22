@@ -28,7 +28,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - **Fang, L.**, Latif, E., Lu, H., Zhou, Y., Ma, P., Zhai, X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov–Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774). *International Conference on Artificial Intelligence in Education (AIED 2025).* *(Selected as Nominee for the Best Poster Award).*
 
-- **Fang, L.**, Lee, G., Zhai, X. (2025) [Using gpt-4 to augment unbalanced data for automatic scoring](https://doi.org/10.1111/jedm.70020). *Journal of Educational Measurement*. (accepted).
+- **Fang, L.**, Lee, G., Zhai, X. (2025) [Using gpt-4 to augment unbalanced data for automatic scoring](https://doi.org/10.1111/jedm.70020). *Journal of Educational Measurement*. 
 
 - Wang, B., Cai, J., **Fang, L.**, Ma, P., Leung, Y.F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.110959).
 *Computers in Biology and Medicine.*
