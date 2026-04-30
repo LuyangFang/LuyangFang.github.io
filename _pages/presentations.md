@@ -11,6 +11,7 @@ redirect_from:
 
 Invited Conference/Workshop Presentations
 -----
+- AI Research Day, Athens, GA (2026)
 - Joint Statistical Meetings, Nashville, TN (2025)
 - AI in Education Conference, Athens, GA (2025)
 - Joint ATD/AMPS Workshop, National Science Foundation, Alexandria, VA (2024)
