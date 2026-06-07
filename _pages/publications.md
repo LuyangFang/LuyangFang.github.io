@@ -13,7 +13,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2026
 ========
 
+- **Fang, L.**, Wang, S., Chen, Y., Zhang, S., Liu, Z. and Zhong, W., 2026. Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data. Psychometrika, pp.1-29.
+
 - Lu, H., **Fang, L.**, Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arxiv*: 2605.16757.
+
+- Lu, H., **Fang, L.**, Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), _Nucleic Acids Research_, in press.
+- Cai, J., Chen, Y., **Fang, L.**, Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _Cell Report Methods_, in press.
 
 - **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3). *Artificial Intelligence Review.* 
 
