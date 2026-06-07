@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2026
 ========
 
-- **Fang, L.**, Wang, S., Chen, Y., Zhang, S., Liu, Z. and Zhong, W., 2026. Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data. Psychometrika, pp.1-29.
+- **Fang, L.**, Wang, S., Chen, Y., Zhang, S., Liu, Z. and Zhong, W., 2026. [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://pubmed.ncbi.nlm.nih.gov/41869947/). Psychometrika, pp.1-29.
 
 - Lu, H., **Fang, L.**, Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arxiv*: 2605.16757.
 
