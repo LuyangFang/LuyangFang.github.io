@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2026
 ========
 
-
+-  **Fang, L.** *, Lu, H.*, Chen, Y., Zhong, W., Ma, P.(2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, Journal of Machine Learning Research, in press. (* joint first authors)
 
 - Lu, H., **Fang, L.**, Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arxiv*: 2605.16757.
 
