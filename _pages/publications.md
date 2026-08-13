@@ -19,7 +19,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - Lu, H., **Fang, L.**, Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://academic.oup.com/nar/article-abstract/doi/10.1093/nar/gkag621/8709438?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email), *Nucleic Acids Research.*
    
-- Cai, J., Chen, Y., **Fang, L.**, Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), *Cell Report Methods, in press.*
+- Cai, J., Chen, Y., **Fang, L.**, Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process]([https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00231-6)), *Cell Report Methods.*
 
 - **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3). *Artificial Intelligence Review.* 
 
