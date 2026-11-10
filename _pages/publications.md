@@ -7,9 +7,46 @@ redirect_from:
   - /resume
 ---
 
+<!-- Section headings: scoped styling for this Publications page. -->
+<style>
+  .pub-section-heading {
+    display: block;
+    margin: 2.8rem 0 1.3rem;
+    padding: 1.1rem 1.35rem;
+    border-left: 5px solid #5274ad;
+    border-radius: 10px;
+    background: linear-gradient(110deg, #eef3fc 0%, #f8faff 100%);
+    box-shadow: 0 3px 12px rgba(26, 45, 78, 0.11);
+    font-size: clamp(1.45rem, 2.8vw, 1.9rem);
+    font-weight: 750;
+    line-height: 1.3;
+    letter-spacing: -0.025em;
+    color: #243651;
+  }
+
+  .pub-section-heading--all {
+    border-left-color: #278a86;
+    background: linear-gradient(110deg, #ebf7f5 0%, #f8fcfb 100%);
+    box-shadow: 0 3px 12px rgba(21, 76, 74, 0.10);
+    color: #1b4845;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .pub-section-heading {
+      background: linear-gradient(110deg, #223249 0%, #1a2534 100%);
+      color: #f0f5ff;
+      box-shadow: 0 3px 14px rgba(0, 0, 0, 0.22);
+    }
+    .pub-section-heading--all {
+      background: linear-gradient(110deg, #1b3837 0%, #1a2c2e 100%);
+      color: #e5faf6;
+    }
+  }
+</style>
+
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
 
-## Selected Publications
+<h2 class="pub-section-heading">Selected Publications</h2>
 
 A selection of representative work across statistical machine learning, knowledge distillation, AI, and interdisciplinary applications.
 
@@ -27,9 +64,9 @@ A selection of representative work across statistical machine learning, knowledg
 
 - [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). *ICML 2024*.
 
-## All Publications & Preprints
+<h2 class="pub-section-heading pub-section-heading--all">All Publications &amp; Preprints</h2>
 
-## 2026
+### 2026
 
 - **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). *Journal of Machine Learning Research*, **27**(54), 1–38.
 
@@ -61,7 +98,7 @@ A selection of representative work across statistical machine learning, knowledg
 
 - Cai, J., Wang, T., Zhang, R., Li, S., Ma, T., **Fang, L.**, et al. (2026). [Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework](https://arxiv.org/abs/2609.20973). *arXiv preprint*, arXiv:2609.20973.
 
-## 2025
+### 2025
 
 - **Fang, L.**, Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). *Big Data Mining and Analytics*, **8**(5), 1060–1074.
 
@@ -73,7 +110,7 @@ A selection of representative work across statistical machine learning, knowledg
 
 - Lu, H., **Fang, L.**, Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Li, X., Li, X., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672). *arXiv preprint*, arXiv:2507.19672.
 
-## 2024
+### 2024
 
 - **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). *Proceedings of the 41st International Conference on Machine Learning (ICML 2024)*, PMLR **235**, 12935–12956.
 
