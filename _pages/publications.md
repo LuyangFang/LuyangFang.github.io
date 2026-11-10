@@ -9,58 +9,76 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
 
+## Selected Publications
 
-2026
-========
+A selection of representative work across statistical machine learning, knowledge distillation, AI, and interdisciplinary applications.
 
--  **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html), *Journal of Machine Learning Research.* 
+- [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). *Journal of Machine Learning Research*.
 
-- Lu, H., **Fang, L.**, Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arxiv*: 2605.16757.
+- [A Statistical Perspective on Knowledge Distillation: Foundations, Classical Methods, and Large Language Model Extensions](https://doi.org/10.1146/annurev-statistics-043025-102547). **Fang, L.** et al. (2026). *Annual Review of Statistics and Its Application*.
 
-- Lu, H., **Fang, L.**, Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://academic.oup.com/nar/article-abstract/doi/10.1093/nar/gkag621/8709438?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email), *Nucleic Acids Research.*
-   
-- Cai, J., Chen, Y., **Fang, L.**, Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00231-6), *Cell Report Methods.*
- 
+- [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://doi.org/10.1093/nar/gkag621). Lu, H., **Fang, L.** et al. (2026). *Nucleic Acids Research*.
 
-- **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://ojs.aaai.org/index.php/AAAI/article/view/42115). *EAAI 2026: Educational Advances in Artificial Intelligence, co-located with AAAI 2026.*
+- [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://doi.org/10.1609/aaai.v40i48.42115). **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). *EAAI 2026 (AAAI)*.
 
-- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2026). [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317). *Association for the Advancement of Artificial Intelligence (AAAI)*.
+- [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096). **Fang, L.** et al. (2026). *Psychometrika*.
 
-- **Fang, L.**, Wang, S., Chen, Y., Zhang, S., Liu, Z., Zhong, W. (2026). [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://www.cambridge.org/core/journals/psychometrika/article/analyzing-complex-educational-data-a-data-analytic-framework-for-integrating-structured-and-unstructured-eyetracking-data/6FD6A269F33F5F62FEAFBDEA4C6CB325). *Psychometrika.*
+- [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://doi.org/10.1007/s10462-025-11423-3). **Fang, L.** et al. (2026). *Artificial Intelligence Review*.
 
-- Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2026). [Large language models for bioinformatics](https://doi.org/10.1002/qub2.70014). *Quantitative Biology.*
+- [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). *ICML 2024*.
 
-2025
-========
+## All Publications & Preprints
 
-- **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2025). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3). *Artificial Intelligence Review.*
+## 2026
 
-- **Fang, L.**, Meng C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). *Big Data Mining and Analytics.* 
+- **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). *Journal of Machine Learning Research*, **27**(54), 1–38.
 
-- **Fang, L.**, Latif, E., Lu, H., Zhou, Y., Ma, P., Zhai, X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov–Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774). *International Conference on Artificial Intelligence in Education (AIED 2025).* *(Selected as Nominee for the Best Poster Award).*
+- **Fang, L.**, Lu, H., Cai, J., Wang, T., Cheng, H., Zhong, W., Ma, P. (2026). [A Statistical Perspective on Knowledge Distillation: Foundations, Classical Methods, and Large Language Model Extensions](https://doi.org/10.1146/annurev-statistics-043025-102547). *Annual Review of Statistics and Its Application*, **14**, in press (review in advance published online September 17, 2026).
 
-- **Fang, L.**, Lee, G., Zhai, X. (2025) [Using gpt-4 to augment unbalanced data for automatic scoring](https://doi.org/10.1111/jedm.70020). *Journal of Educational Measurement*. 
+- **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://doi.org/10.1609/aaai.v40i48.42115). *Proceedings of the AAAI Conference on Artificial Intelligence (EAAI 2026)*, **40**(48), 40831–40839.
 
-- Wang, B., Cai, J., **Fang, L.**, Ma, P., Leung, Y.F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.110959).
-*Computers in Biology and Medicine.*
+- **Fang, L.**, Wang, S., Chen, Y., Zhang, S., Liu, Z., Zhong, W. (2026). [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096). *Psychometrika*, **91**(3), 839–867.
 
-- Lu, H., **Fang, L.**, Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Li, X., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., Ma, P. (2025) [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672). arXiv:2507.19672.
+- **Fang, L.**, Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2026). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://doi.org/10.1007/978-3-032-29760-0_38). *International Conference on Artificial Intelligence in Education (AIED 2026)*, Lecture Notes in Computer Science, **16583**, 342–350.
 
+- **Fang, L.**, Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://doi.org/10.1007/s10462-025-11423-3). *Artificial Intelligence Review*, **59**, Article 17.
 
+- Lu, H., **Fang, L.**, Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757). *The First Conference on Statistics and Trustworthy AI for Cross-Domain Acceleration (STAI-X 2026).* **Paper Honorable Mention**.
 
-2024
-========
-- **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd). *International Conference on Machine Learning (ICML).*
-  
-- Wang, Z., **Fang, L.**\*, Cai, J., Ma, P., Zhong, W. (2024) [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://drive.google.com/file/d/1ziOs1fgjxSvBtdeNdoaBwN_9Dvohy8kA/view?usp=sharing). *Statistics in Biosciences.* (\* Joint-First author)
-  
-- Latif, E., **Fang, L.**, Ma, P., and Zhai, X. (2024) [Knowledge Distillation of LLMs for Automatic Scoring of Science Assessments](https://drive.google.com/file/d/1ntv10R8kJ216eBG8vQw2J7zGAsJd51rE/view?usp=sharing). *International Conference on Artificial Intelligence in Education.*
-  
-- Wang, S., Wu, S., Chen, Y., **Fang, L.**, Xiao, L., Li, F. (2024) [Exploring Latent Constructs through Multimodal Data Analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jedm.12412). *Journal of Educational Measurement.*
-  
-- Latif, E., Zhou, Y., Guo, S., Gao, Y., Shi, L., Nayaaba, M., Lee, G., Zhang, L., Bewersdorff, A., **Fang, L.**, Yang, X., Zhao, H., Jiang, H., Lu, H., Li, J., Yu, J., You, W., Liu, Z., Liu, V. S., Wang, H., Wu, Z., Lu, J., Dou, F., Ma, P., Liu, N., Liu, T., Zhai, X. (2024) [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287). arXiv:2410.21287.
+- Lu, H., **Fang, L.**, Zeng, O., Zhong, W., Yuan, G.-C., Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://doi.org/10.1093/nar/gkag621). *Nucleic Acids Research*, **54**(11), gkag621.
 
-  
-2023
-========
-- Wu, S., **Fang L.**, Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://par.nsf.gov/servlets/purl/10494748). *IEEE Transactions on Smart Grid.*
+- Cai, J., Chen, Y., **Fang, L.**, Liu, X., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff Denoises Sequence-Based Spatial Transcriptomics via Diffusion Process](https://doi.org/10.1016/j.crmeth.2026.101530). *Cell Reports Methods*, **6**(9), 101530.
+
+- Cheng, H., Yu, X., Wu, S., **Fang, L.**, Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2026). [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://doi.org/10.1609/aaai.v40i5.37317). *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)*, **40**(5), 3228–3236.
+
+- Wang, Z., **Fang, L.**\*, Cai, J., Ma, P., Zhong, W. (2026). [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://doi.org/10.1007/s12561-024-09450-9). *Statistics in Biosciences*, **18**(3), 706–726. (\* Co-first author.)
+
+- Wang, S., Wu, S., Chen, Y., **Fang, L.**, Xiao, L., Li, F. (2026). [Exploring Latent Constructs through Multimodal Data Analysis](https://doi.org/10.1111/jedm.12412). *Journal of Educational Measurement*, **63**(1), e12412.
+
+- Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., **Fang, L.**, Liu, Z., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Zhang, L., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2026). [Large Language Models for Bioinformatics](https://doi.org/10.1002/qub2.70014). *Quantitative Biology*, **14**(1), e70014.
+
+- **Fang, L.**, Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967). *arXiv preprint*, arXiv:2605.27967.
+
+- Cai, J., Wang, T., Zhang, R., Li, S., Ma, T., **Fang, L.**, et al. (2026). [Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework](https://arxiv.org/abs/2609.20973). *arXiv preprint*, arXiv:2609.20973.
+
+## 2025
+
+- **Fang, L.**, Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). *Big Data Mining and Analytics*, **8**(5), 1060–1074.
+
+- **Fang, L.**, Latif, E., Lu, H., Zhou, Y., Ma, P., Zhai, X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov–Wasserstein Feature Alignment](https://doi.org/10.1007/978-3-031-99267-4_24). *International Conference on Artificial Intelligence in Education (AIED 2025).* **Nominated for the Best Poster Award**.
+
+- **Fang, L.**, Lee, G., Zhai, X. (2025). [Using GPT-4 to Augment Imbalanced Data for Automatic Scoring](https://doi.org/10.1111/jedm.70020). *Journal of Educational Measurement*, **62**(4), 959–995.
+
+- Wang, B., Cai, J., **Fang, L.**, Tsujikawa, M., Ma, P., Leung, Y. F. (2025). [Tensor Analysis of Animal Behavior by Matricization and Feature Selection](https://doi.org/10.1016/j.compbiomed.2025.110959). *Computers in Biology and Medicine*, **197** (Part B), 110959.
+
+- Lu, H., **Fang, L.**, Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Li, X., Li, X., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672). *arXiv preprint*, arXiv:2507.19672.
+
+## 2024
+
+- **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). *Proceedings of the 41st International Conference on Machine Learning (ICML 2024)*, PMLR **235**, 12935–12956.
+
+- Latif, E., **Fang, L.**, Ma, P., Zhai, X. (2024). [Knowledge Distillation of LLMs for Automatic Scoring of Science Assessments](https://doi.org/10.1007/978-3-031-64312-5_20). *International Conference on Artificial Intelligence in Education (AIED 2024)*, Communications in Computer and Information Science, **2151**, 166–174.
+
+- Latif, E., Zhou, Y., Guo, S., Gao, Y., Shi, L., Nayaaba, M., Lee, G., Zhang, L., Bewersdorff, A., **Fang, L.**, Yang, X., Zhao, H., Jiang, H., Lu, H., Li, J., Yu, J., You, W., Liu, Z., Liu, V. S., Wang, H., Wu, Z., Lu, J., Dou, F., Ma, P., Liu, N., Liu, T., Zhai, X. (2024). [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287). *arXiv preprint*, arXiv:2410.21287.
+
+- Wu, S., **Fang, L.**, Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2024). [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://doi.org/10.1109/TSG.2023.3325276). *IEEE Transactions on Smart Grid*, **15**(2), 2214–2225.
