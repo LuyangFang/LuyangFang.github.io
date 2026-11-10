@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
+<p style="font-size: 20px; line-height: 1.6;">You can also find my articles on my <a href="https://scholar.google.com/citations?user=jriFo4wAAAAJ&amp;hl=en">Google Scholar profile</a>.</p>
 
-<h3 style="display: block; margin: 2.5rem 0 1.2rem; padding: 1.0rem 1.25rem; border-left: 5px solid #5274ad; border-radius: 10px; background: linear-gradient(110deg, #eef3fc 0%, #f8faff 100%); box-shadow: 0 3px 12px rgba(26, 45, 78, 0.12); color: #243651; font-size: 1.75rem; line-height: 1.35; font-weight: 700;">Selected Publications</h3>
+<h2 style="display: block; margin: 2.3rem 0 1.1rem; padding: 0.7rem 1.0rem; border-left: 5px solid #5274ad; border-radius: 10px; background: linear-gradient(110deg, #eef3fc 0%, #f8faff 100%); box-shadow: 0 3px 12px rgba(26, 45, 78, 0.12); color: #243651; font-size: 1.30rem; line-height: 1.35; font-weight: 700;">Selected Publications</h2>
+
+A selection of representative work across statistical machine learning, knowledge distillation, AI, and interdisciplinary applications.
 
 - [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). *Journal of Machine Learning Research*.
 
@@ -25,7 +27,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). *ICML 2024*.
 
-<h3 style="display: block; margin: 2.8rem 0 1.2rem; padding: 1.0rem 1.25rem; border-left: 5px solid #278a86; border-radius: 10px; background: linear-gradient(110deg, #ebf7f5 0%, #f8fcfb 100%); box-shadow: 0 3px 12px rgba(21, 76, 74, 0.12); color: #1b4845; font-size: 1.75rem; line-height: 1.35; font-weight: 700;">All Publications &amp; Preprints</h3>
+<h2 style="display: block; margin: 2.5rem 0 1.1rem; padding: 0.7rem 1.0rem; border-left: 5px solid #278a86; border-radius: 10px; background: linear-gradient(110deg, #ebf7f5 0%, #f8fcfb 100%); box-shadow: 0 3px 12px rgba(21, 76, 74, 0.12); color: #1b4845; font-size: 1.30rem; line-height: 1.35; font-weight: 700;">All Publications &amp; Preprints</h2>
 
 ### 2026
 
