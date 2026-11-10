@@ -24,7 +24,7 @@ author:
   avatar           : "Luyang.jpg"
   name             : "Luyang Fang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Associate, Yale Biostatistics"
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "LuyangFang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
