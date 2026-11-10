@@ -7,46 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<!-- Section headings: scoped styling for this Publications page. -->
-<style>
-  .pub-section-heading {
-    display: block;
-    margin: 2.8rem 0 1.3rem;
-    padding: 1.1rem 1.35rem;
-    border-left: 5px solid #5274ad;
-    border-radius: 10px;
-    background: linear-gradient(110deg, #eef3fc 0%, #f8faff 100%);
-    box-shadow: 0 3px 12px rgba(26, 45, 78, 0.11);
-    font-size: clamp(1.45rem, 2.8vw, 1.9rem);
-    font-weight: 750;
-    line-height: 1.3;
-    letter-spacing: -0.025em;
-    color: #243651;
-  }
-
-  .pub-section-heading--all {
-    border-left-color: #278a86;
-    background: linear-gradient(110deg, #ebf7f5 0%, #f8fcfb 100%);
-    box-shadow: 0 3px 12px rgba(21, 76, 74, 0.10);
-    color: #1b4845;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .pub-section-heading {
-      background: linear-gradient(110deg, #223249 0%, #1a2534 100%);
-      color: #f0f5ff;
-      box-shadow: 0 3px 14px rgba(0, 0, 0, 0.22);
-    }
-    .pub-section-heading--all {
-      background: linear-gradient(110deg, #1b3837 0%, #1a2c2e 100%);
-      color: #e5faf6;
-    }
-  }
-</style>
-
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
 
-<h2 class="pub-section-heading">Selected Publications</h2>
+<h2 style="display: block; margin: 2.5rem 0 1.2rem; padding: 1.0rem 1.25rem; border-left: 5px solid #5274ad; border-radius: 10px; background: linear-gradient(110deg, #eef3fc 0%, #f8faff 100%); box-shadow: 0 3px 12px rgba(26, 45, 78, 0.12); color: #243651; font-size: 1.75rem; line-height: 1.35; font-weight: 700;">Selected Publications</h2>
 
 A selection of representative work across statistical machine learning, knowledge distillation, AI, and interdisciplinary applications.
 
@@ -64,7 +27,7 @@ A selection of representative work across statistical machine learning, knowledg
 
 - [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). *ICML 2024*.
 
-<h2 class="pub-section-heading pub-section-heading--all">All Publications &amp; Preprints</h2>
+<h2 style="display: block; margin: 2.8rem 0 1.2rem; padding: 1.0rem 1.25rem; border-left: 5px solid #278a86; border-radius: 10px; background: linear-gradient(110deg, #ebf7f5 0%, #f8fcfb 100%); box-shadow: 0 3px 12px rgba(21, 76, 74, 0.12); color: #1b4845; font-size: 1.75rem; line-height: 1.35; font-weight: 700;">All Publications &amp; Preprints</h2>
 
 ### 2026
 
