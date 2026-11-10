@@ -11,8 +11,6 @@ redirect_from:
 
 <h2 style="display: block; margin: 2.3rem 0 1.1rem; padding: 0.7rem 1.0rem; border-left: 5px solid #5274ad; border-radius: 10px; background: linear-gradient(110deg, #eef3fc 0%, #f8faff 100%); box-shadow: 0 3px 12px rgba(26, 45, 78, 0.12); color: #243651; font-size: 1.30rem; line-height: 1.35; font-weight: 700;">Selected Publications</h2>
 
-A selection of representative work across statistical machine learning, knowledge distillation, AI, and interdisciplinary applications.
-
 - **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). *Journal of Machine Learning Research*.
 
 - **Fang, L.** et al. (2026). [A Statistical Perspective on Knowledge Distillation: Foundations, Classical Methods, and Large Language Model Extensions](https://doi.org/10.1146/annurev-statistics-043025-102547). *Annual Review of Statistics and Its Application*.
