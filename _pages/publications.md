@@ -13,19 +13,19 @@ redirect_from:
 
 A selection of representative work across statistical machine learning, knowledge distillation, AI, and interdisciplinary applications.
 
-- [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). *Journal of Machine Learning Research*.
+- **Fang, L.**, Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html). *Journal of Machine Learning Research*.
 
-- [A Statistical Perspective on Knowledge Distillation: Foundations, Classical Methods, and Large Language Model Extensions](https://doi.org/10.1146/annurev-statistics-043025-102547). **Fang, L.** et al. (2026). *Annual Review of Statistics and Its Application*.
+- **Fang, L.** et al. (2026). [A Statistical Perspective on Knowledge Distillation: Foundations, Classical Methods, and Large Language Model Extensions](https://doi.org/10.1146/annurev-statistics-043025-102547). *Annual Review of Statistics and Its Application*.
 
-- [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://doi.org/10.1093/nar/gkag621). Lu, H., **Fang, L.** et al. (2026). *Nucleic Acids Research*.
+- Lu, H., **Fang, L.** et al. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://doi.org/10.1093/nar/gkag621). *Nucleic Acids Research*.
 
-- [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://doi.org/10.1609/aaai.v40i48.42115). **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). *EAAI 2026 (AAAI)*.
+- **Fang, L.**, Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://doi.org/10.1609/aaai.v40i48.42115). *EAAI 2026 (AAAI)*.
 
-- [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096). **Fang, L.** et al. (2026). *Psychometrika*.
+- **Fang, L.** et al. (2026). [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096). *Psychometrika*.
 
-- [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://doi.org/10.1007/s10462-025-11423-3). **Fang, L.** et al. (2026). *Artificial Intelligence Review*.
+- **Fang, L.** et al. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://doi.org/10.1007/s10462-025-11423-3). *Artificial Intelligence Review*.
 
-- [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). *ICML 2024*.
+- **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024). [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://proceedings.mlr.press/v235/fang24a.html). *ICML 2024*.
 
 <h2 style="display: block; margin: 2.5rem 0 1.1rem; padding: 0.7rem 1.0rem; border-left: 5px solid #278a86; border-radius: 10px; background: linear-gradient(110deg, #ebf7f5 0%, #f8fcfb 100%); box-shadow: 0 3px 12px rgba(21, 76, 74, 0.12); color: #1b4845; font-size: 1.30rem; line-height: 1.35; font-weight: 700;">All Publications &amp; Preprints</h2>
 
