@@ -269,3 +269,15 @@
 /* Header menu: tighter spacing so all items fit on narrower windows */
 .greedy-nav a { margin: 0 0.7rem; }
 .masthead__menu-item--lg { padding-right: 1.2em; }
+
+/* Pages without the profile sidebar use the full content width */
+#main > .archive:first-child {
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    max-width: 1080px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+  }
+}

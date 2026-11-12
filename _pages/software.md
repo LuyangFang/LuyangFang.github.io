@@ -2,7 +2,7 @@
 layout: archive
 title: "Software"
 permalink: /software/
-author_profile: true
+author_profile: false
 ---
 
 <p class="sw-intro">Open-source implementations of methods from my papers. Source code is on <a href="https://github.com/LuyangFang">GitHub</a>.</p>
