@@ -4,11 +4,14 @@ main:
   - title: "Publications"
     url: /publication/
 
-  - title: "Presentations"
-    url: /presentations/
+  - title: "Software"
+    url: /software/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Awards & Service"
-    url: /awards/
+  - title: "Activities"
+    url: /activities/
+
+  - title: "Contact"
+    url: /contact/

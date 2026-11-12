@@ -53,7 +53,7 @@ redirect_from:
       <ul class="rc-papers">
         <li><a href="https://proceedings.mlr.press/v235/fang24a.html">Bayesian Knowledge Distillation</a> <span>ICML 2024</span></li>
         <li><a href="https://www.jmlr.org/papers/v27/23-0359.html">Knowledge Cascade</a> <span>JMLR 2026</span></li>
-        <li><a href="https://doi.org/10.1146/annurev-statistics-043025-102547">A Statistical Perspective on Knowledge Distillation</a> <span>Annual Review of Statistics and Its Application</span></li>
+        <li><a href="https://doi.org/10.1146/annurev-statistics-043025-102547">A Statistical Perspective on Knowledge Distillation</a> <span>Annual Review of Statistics and Its Application 2026</span></li>
       </ul>
     </div>
   </div>
@@ -65,7 +65,7 @@ redirect_from:
       <p>Data- and compute-efficient automated scoring that stays calibrated and defers uncertain cases to human raters.</p>
       <ul class="rc-papers">
         <li><a href="https://doi.org/10.1609/aaai.v40i48.42115">Knowledge-distilled multi-task mixture-of-experts scorer</a> <span>AAAI 2026</span></li>
-        <li><a href="https://doi.org/10.1111/jedm.70020">GPT-4 data augmentation for imbalanced scoring data</a> <span>Journal of Educational Measurement</span></li>
+        <li><a href="https://doi.org/10.1111/jedm.70020">GPT-4 data augmentation for imbalanced scoring data</a> <span>Journal of Educational Measurement 2025</span></li>
       </ul>
     </div>
   </div>
@@ -76,9 +76,9 @@ redirect_from:
       <h3>Statistical machine learning for bioinformatics</h3>
       <p>Methods that turn high-dimensional, noisy biological data, such as spatial transcriptomics and multi-omics, into interpretable structure.</p>
       <ul class="rc-papers">
-        <li><a href="https://doi.org/10.1093/nar/gkag621">Optimal gene panel selection</a> <span>Nucleic Acids Research</span></li>
-        <li><a href="https://doi.org/10.1016/j.crmeth.2026.101530">SpaDiff</a> <span>Cell Reports Methods</span></li>
-        <li><a href="https://doi.org/10.1007/s12561-024-09450-9">MultiCOP</a> <span>Statistics in Biosciences</span></li>
+        <li><a href="https://doi.org/10.1093/nar/gkag621">Optimal gene panel selection</a> <span>Nucleic Acids Research 2026</span></li>
+        <li><a href="https://doi.org/10.1016/j.crmeth.2026.101530">SpaDiff</a> <span>Cell Reports Methods 2026</span></li>
+        <li><a href="https://doi.org/10.1007/s12561-024-09450-9">MultiCOP</a> <span>Statistics in Biosciences 2024</span></li>
       </ul>
     </div>
   </div>
@@ -93,24 +93,21 @@ redirect_from:
     <li><span class="nd">Sep 2026</span><span><em>A Statistical Perspective on Knowledge Distillation</em> published online in the Annual Review of Statistics and Its Application.</span></li>
     <li><span class="nd">Sep 2026</span><span><em>SpaDiff</em> published in Cell Reports Methods.</span></li>
     <li><span class="nd">Aug 2026</span><span><em>NeuroMAS</em> received a Paper Honorable Mention at STAI-X 2026.</span></li>
-    <li><span class="nd">Aug 2026</span><span>Served as a session chair at JSM 2026 in Boston.</span></li>
     <li><span class="nd">Jul 2026</span><span>Joined the Department of Biostatistics at Yale as a Postdoctoral Associate.</span></li>
     <li><span class="nd">Jun 2026</span><span>Our optimal gene panel selection method for spatial transcriptomics published in Nucleic Acids Research.</span></li>
     <li><span class="nd">Jun 2026</span><span>Confidence-aware assessment of student-drawn scientific models published in AIED 2026.</span></li>
     <li><span class="nd">May 2026</span><span>Received my Ph.D. in Statistics from the University of Georgia.</span></li>
     <li><span class="nd">May 2026</span><span><em>Knowledge Cascade</em> published in the Journal of Machine Learning Research.</span></li>
+    <li><span class="nd">Mar 2026</span><span>Eye-tracking data analysis framework published in Psychometrika.</span></li>
 </ul>
 
 <details class="news-more">
   <summary>Show earlier news</summary>
   <ul class="news-list">
-      <li><span class="nd">Mar 2026</span><span>Eye-tracking data analysis framework published in Psychometrika.</span></li>
       <li><span class="nd">Jan 2026</span><span>Two papers at AAAI 2026.</span></li>
       <li><span class="nd">Nov 2025</span><span>Survey on knowledge and dataset distillation of LLMs published in Artificial Intelligence Review, and GPT-4 data augmentation paper published in the Journal of Educational Measurement.</span></li>
-      <li><span class="nd">Aug 2025</span><span>Served as a session chair at JSM 2025 in Nashville.</span></li>
       <li><span class="nd">Jul 2025</span><span>Model merging paper nominated for the Best Poster Award at AIED 2025.</span></li>
       <li><span class="nd">Mar 2025</span><span>Received the James L. Carmon Scholarship from the University of Georgia.</span></li>
-      <li><span class="nd">2025</span><span>Received the ASA Early Career Travel Award.</span></li>
       <li><span class="nd">Jul 2024</span><span>Presented <em>Bayesian Knowledge Distillation</em> at ICML 2024 in Vienna.</span></li>
   </ul>
 </details>

@@ -18,7 +18,6 @@ Teaching Assistant
 - STAT 6315 Statistical Methods, Summer 2022, UGA
 - STAT 8070 Statistical Computing II, Spring 2022, Spring 2021, UGA
 - STAT 4230/6230 Applied Regression Analysis, Fall 2021, UGA
-- STAT 610 Introductory to Statistical Inference (Grader), Spring 2021, UW-Madison
 
 
 
